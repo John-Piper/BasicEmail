@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'BasicEmail',
   packages = ['BasicEmail'],
-  version = '1.0',
+  version = '0.1',
   license='MIT',
   description = 'Wrapping the Main methods, in a class, from the python package smtplib to send a simple email.',
   author = 'John Piper',
