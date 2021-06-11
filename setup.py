@@ -8,7 +8,7 @@ setup(
   author = 'John Piper',
   author_email = '',
   url = 'https://github.com/John-Piper',
-  download_url = 'https://github.com/John-Piper/BasicEmail',
+  download_url = 'https://github.com/John-Piper/BasicEmail/releases/tag/v0.1-alpha',
   keywords = ['email', 'basic', 'smtplib'],
   install_requires=[
           ''
