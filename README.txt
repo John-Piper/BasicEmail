@@ -14,6 +14,12 @@ I have written this module to learn the following:
 
 Add documentation to a python file, test the module using pytest and add my first project to pypi.
 
+pypi web address: https://pypi.org/project/BasicEmail/
+
+To install on python:
+
+    pip install BasicEmail
+
 Thank you for taking the time to look at my work.
 
 John Piper
